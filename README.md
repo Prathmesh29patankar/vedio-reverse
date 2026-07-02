@@ -164,14 +164,7 @@ If you would like to improve this project, feel free to fork the repository and 
 
 ---
 
-# 👨‍💻 Developer
-
-**Harsh Kushwah**
-
 🌐 **Live Demo:** https://video-rewind-studio.vercel.app/
-
-💻 **GitHub:** https://github.com/harshuu090
-
 ---
 
 <div align="center">
